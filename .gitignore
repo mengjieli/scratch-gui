@@ -20,6 +20,3 @@ npm-*
 
 # Other generated source
 /src/generated
-
-# Downloaded during "npm install"
-/static/microbit
